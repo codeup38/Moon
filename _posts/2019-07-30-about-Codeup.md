@@ -30,7 +30,7 @@ comments: false
 Codeup OJ의 관리는 2012년 이래로 [admin](https://codeup.kr/userinfo.php?user=admin) 한 분이 담당하고 있으며  
 admin님은 현직 과학고등학교 정보교사라고 한다.  
   
- ![Codeup_Home](https://workspace.moonwalk.cf/imgfile/Codeup_home.PNG)
+ ![Codeup_Home](https://blog.creatively.dev/imgfile/Codeup_home.PNG)
    
 Codeup에 접속하면 가장 먼저 보이는 화면이다.  
   
@@ -225,7 +225,7 @@ Codeup은 20문제 이하로 풀면 탈퇴 이후 동일 ID로 재가입이 가�
   
 하지만 이 사이트에서는 재현이 가능하기 때문에.. 다시 부활시켰다.  
   
-한번 체험해 보길 바란다. [체험해보기](https://workspace.moonwalk.cf/Codeup_SHA256.html)  
+한번 체험해 보길 바란다. [체험해보기](https://blog.creatively.dev/Codeup_SHA256.html)  
   
 해당 글은 Codeup에서 스크립트 차단 때문에 [이렇게](https://codeup.kr/classop.php?class_id=7080) 보인다.  
   
