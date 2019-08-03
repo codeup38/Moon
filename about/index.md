@@ -26,15 +26,6 @@ comments: false
 - 깃허브 블로그용으로 <https://creatively.dev> 구매
 - 영문/한국어 블로그 동시운영
 
-<br/>
-<br/>
-
-## About MoonWalk - Prestige WorkSpace
-
-- forked from <https://github.com/TaylanTatli/Moon> repo
-- little Customizing from myself
-- purchased <https://creatively.dev> for this
-- two versions of MoonWalk - En, Ko
 
 <br/>
 <br/>
