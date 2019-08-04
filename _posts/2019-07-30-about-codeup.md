@@ -60,7 +60,7 @@ Codeup에 접속하면 가장 먼저 보이는 화면이다.
   
 그리고 자랑도 아무 때나 하는게 아니니, 기왕 자랑하는 김에 하나 더 자랑하도록 하자.  
 [3018 쿨식스](https://codeup.kr/problem.php?id=3018) 문제를 풀이하고 나면, [모범 소스](https://codeup.kr/showsource.php?id=7959745 "못 볼수도 있다")를 열람할 수 있는데  
-해당 모범 소스는 필자가 제출한, 필자의 소스 코드이다. ><  [모범 소스를 등록하게 된 계기](https://codeup.kr/d_thread.php?tid=6533&cid=)
+해당 모범 소스는 필자가 제출한, 필자의 소스 코드이다. ><  <sup id="a0">[0](#a0)</sup>
   
  <br/> 
   
@@ -254,8 +254,9 @@ Codeup은 20문제 이하로 풀면 탈퇴 이후 동일 ID로 재가입이 가�
 <br/>
 <br/>
 
-<b id"a1">1</b>새로 가입하시는 분들때문에 순위가 밀려 링크가 바뀔수도 있다. [↩](#a1)  
-<b id"a2">2</b>게시판이 3페이지 이상의 게시글들을 확인하기 어렵게 변하여 찾기 힘들다.. 레전드 글을 찾았다면 [필자](https://codeup.kr/userinfo.php?user=kimgihong38)에게 쪽지 등으로 제보 바란다. [↩](#a2)  
-<b id"a3">3</b>Nice Job, [Next-Coding!](https://codeup.kr/userinfo.php?user=Next_Coding) [↩](#a3)  
+<b id="a0">0</b>[모범 소스를 등록하게 된 계기](https://codeup.kr/d_thread.php?tid=6533&cid=) [↩](#a0)
+<b id="a1">1</b>새로 가입하시는 분들때문에 순위가 밀려 링크가 바뀔수도 있다. [↩](#a1)  
+<b id="a2">2</b>게시판이 3페이지 이상의 게시글들을 확인하기 어렵게 변하여 찾기 힘들다.. 레전드 글을 찾았다면 [필자](https://codeup.kr/userinfo.php?user=kimgihong38)에게 쪽지 등으로 제보 바란다. [↩](#a2)  
+<b id="a3">3</b>Nice Job, [Next-Coding!](https://codeup.kr/userinfo.php?user=Next_Coding) [↩](#a3)  
 
 ```검색어// Codeup/코드업/C/C++/OJ/Codeup OJ/코드/소스 코드/온라인 저지/온라인 져지/codeup.kr/```
