@@ -5,6 +5,7 @@ excerpt: "게시판 관리자가 알려주는 Codeup OJ 이야기"
 date: 2019-07-30
 tags: [코드업 관련 이야기]
 comments: false
+ad: true
 ---
 
 <https://codeup.kr>  
