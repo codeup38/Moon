@@ -259,4 +259,4 @@ Codeup은 20문제 이하로 풀면 탈퇴 이후 동일 ID로 재가입이 가�
 <b id="foot2">[2]</b> 게시판이 3페이지 이상의 게시글들을 확인하기 어렵게 변하여 찾기 힘들다.. 레전드 글을 찾았다면 [필자](https://codeup.kr/userinfo.php?user=kimgihong38)에게 쪽지 등으로 제보 바란다. [↩](#a2){: .notice}  
 <b id="foot3">[3]</b> Nice Job, [Next-Coding!](https://codeup.kr/userinfo.php?user=Next_Coding) [↩](#a3){: .notice}  
 
-검색어// Codeup/코드업/C/C++/OJ/Codeup OJ/코드/소스 코드/온라인 저지/온라인 져지/codeup.kr/{: .notice}
+검색어// Codeup/코드업/C/C++/OJ/Codeup OJ/코드/소스 코드/온라인 저지/온라인 져지/codeup.kr/ {: .notice}
