@@ -251,4 +251,4 @@ Codeup은 20문제 이하로 풀면 탈퇴 이후 동일 ID로 재가입이 가�
 읽어주셔서 감사합니다. ;)  
 <br/>
 <br/>
->검색어// Codeup/코드업/C/C++/OJ/Codeup OJ/코드/소스 코드/온라인 저지/온라인 져지/codeup.kr/
+```검색어// Codeup/코드업/C/C++/OJ/Codeup OJ/코드/소스 코드/온라인 저지/온라인 져지/codeup.kr/```
