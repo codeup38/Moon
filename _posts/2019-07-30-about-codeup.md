@@ -254,7 +254,7 @@ Codeup은 20문제 이하로 풀면 탈퇴 이후 동일 ID로 재가입이 가�
 <br/>
 <br/>
 
-<b id="a0">[0].</b> [모범 소스를 등록하게 된 계기](https://codeup.kr/d_thread.php?tid=6533&cid=) [↩](#a0)
+<b id="a0">[0].</b> [모범 소스를 등록하게 된 계기](https://codeup.kr/d_thread.php?tid=6533&cid=) [↩](#a0)  
 <b id="a1">[1].</b> 새로 가입하시는 분들때문에 순위가 밀려 링크가 바뀔수도 있다. [↩](#a1)  
 <b id="a2">[2].</b> 게시판이 3페이지 이상의 게시글들을 확인하기 어렵게 변하여 찾기 힘들다.. 레전드 글을 찾았다면 [필자](https://codeup.kr/userinfo.php?user=kimgihong38)에게 쪽지 등으로 제보 바란다. [↩](#a2)  
 <b id="a3">[3].</b> Nice Job, [Next-Coding!](https://codeup.kr/userinfo.php?user=Next_Coding) [↩](#a3)  
