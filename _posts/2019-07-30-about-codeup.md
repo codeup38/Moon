@@ -81,7 +81,7 @@ Codeup에 접속하면 가장 먼저 보이는 화면이다.
    
  보통 Codeup 네임드는 [랭킹](https://codeup.kr/ranklist.php) 극상위권이나, 랭킹 극하위권.. 정도이다.  
    
- 랭킹 극하위권의 이 [늠름한 자태](https://codeup.kr/ranklist.php?start=119350 "엄청나죠? ㅋㅋㅋㅋ")<sup id="a1">[1](#a1)</sup>를 보면 입이 벌어질 정도다.  
+ 랭킹 극하위권의 이 [늠름한 자태](https://codeup.kr/ranklist.php?start=119350 "엄청나죠? ㅋㅋㅋㅋ") <sup id="a1">[1](#a1)</sup>를 보면 입이 벌어질 정도다.  
  Codeup에서 이런 유쾌한 컨셉을 가진 계정들을 종종 볼수 있다.  
    
  물론, 그 정도가 심하면 계정 차단도 당할수 있다..  
@@ -203,12 +203,12 @@ Codeup은 20문제 이하로 풀면 탈퇴 이후 동일 ID로 재가입이 가�
 우리가 무슨 민족인가. 풍자와 해학의 민족이 아닌가?  
 
 그걸 굉장히 잘 보여주는 모범 사례들이 있다.  
-구경해 보도록 하자.<sup id="a2">[2](#a2)</sup>
+구경해 보도록 하자. <sup id="a2">[2](#a2)</sup>
 
 
 - [쉽네요...](https://codeup.kr/d_thread.php?tid=7455&cid=)
 - [선우가 잘못했네](https://codeup.kr/d_thread.php?tid=5424&cid=)  
-- [Union Find](https://codeup.kr/d_thread.php?tid=6691&cid=)<sup id="a3">[3](#a3)</sup> 
+- [Union Find](https://codeup.kr/d_thread.php?tid=6691&cid=) <sup id="a3">[3](#a3)</sup> 
   
 
   
@@ -254,9 +254,9 @@ Codeup은 20문제 이하로 풀면 탈퇴 이후 동일 ID로 재가입이 가�
 <br/>
 <br/>
 
-<b id="a0">0</b>[모범 소스를 등록하게 된 계기](https://codeup.kr/d_thread.php?tid=6533&cid=) [↩](#a0)
-<b id="a1">1</b>새로 가입하시는 분들때문에 순위가 밀려 링크가 바뀔수도 있다. [↩](#a1)  
-<b id="a2">2</b>게시판이 3페이지 이상의 게시글들을 확인하기 어렵게 변하여 찾기 힘들다.. 레전드 글을 찾았다면 [필자](https://codeup.kr/userinfo.php?user=kimgihong38)에게 쪽지 등으로 제보 바란다. [↩](#a2)  
-<b id="a3">3</b>Nice Job, [Next-Coding!](https://codeup.kr/userinfo.php?user=Next_Coding) [↩](#a3)  
+<b id="a0">[0].</b> [모범 소스를 등록하게 된 계기](https://codeup.kr/d_thread.php?tid=6533&cid=) [↩](#a0)
+<b id="a1">[1].</b> 새로 가입하시는 분들때문에 순위가 밀려 링크가 바뀔수도 있다. [↩](#a1)  
+<b id="a2">[2].</b> 게시판이 3페이지 이상의 게시글들을 확인하기 어렵게 변하여 찾기 힘들다.. 레전드 글을 찾았다면 [필자](https://codeup.kr/userinfo.php?user=kimgihong38)에게 쪽지 등으로 제보 바란다. [↩](#a2)  
+<b id="a3">[3].</b> Nice Job, [Next-Coding!](https://codeup.kr/userinfo.php?user=Next_Coding) [↩](#a3)  
 
 ```검색어// Codeup/코드업/C/C++/OJ/Codeup OJ/코드/소스 코드/온라인 저지/온라인 져지/codeup.kr/```
