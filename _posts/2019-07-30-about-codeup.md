@@ -210,6 +210,8 @@ Codeup은 20문제 이하로 풀면 탈퇴 이후 동일 ID로 재가입이 가�
 
 - [쉽네요...](https://codeup.kr/d_thread.php?tid=7455&cid=)
 - [선우가 잘못했네](https://codeup.kr/d_thread.php?tid=5424&cid=)  
+- [Union Find](https://codeup.kr/d_thread.php?tid=6691&cid=)  
+    + Nice Job, [Next-Coding!](https://codeup.kr/userinfo.php?user=Next_Coding) 
   
 <br/>
   
