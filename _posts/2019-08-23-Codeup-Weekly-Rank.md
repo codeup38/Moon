@@ -1,4 +1,4 @@
-﻿---
+---
 layout : post
 title : "8월 3주차 Codeup OJ 랭킹"
 excerpt : "Codeup OJ Tier Service (ver 1.0.0.)"
@@ -19,13 +19,12 @@ ad : true
 ##### 이 랭킹은 [Codeup OJ Crawler](https://codeup.tk) 프로그램에 의해서 산출된 랭킹을 기반으로 제공됩니다.  
 
 <br>
-<br>
 
 순위 산출 기준은 [여기](https://codeup.tk/how-to-rank) 에서 보실 수 있습니다.  
 Ctrl-F로 아이디를 찾아볼 수 있습니다!  
 
 <br>
-<br>
+
 <br>
 
 #### AC Rank (정확한 풀이 문제수)
@@ -72,9 +71,8 @@ Ctrl-F로 아이디를 찾아볼 수 있습니다!
 40) oea0805 72  
 
 <br>
-<br>
 
-나머지 순위를 포함한 전체 순위는 [여기](https://codeup.tk/2019-08-3rd/AC)를 참고하세요 :)  
+나머지 순위를 포함한 전체 순위는 [여기](https://codeup.tk/Ranks/2019-08-3rd/AC)를 참고하세요 :)  
 
 <br>
 <br>
@@ -122,10 +120,10 @@ Ctrl-F로 아이디를 찾아볼 수 있습니다!
 39) Amethystp 136  
 40) soski 135  
 
-<br>
+
 <br>
 
-나머지 순위를 포함한 전체 순위는 [여기](https://codeup.tk/2019-08-3rd/Submit)를 참고하세요 :)
+나머지 순위를 포함한 전체 순위는 [여기](https://codeup.tk/Ranks/2019-08-3rd/Submit)를 참고하세요 :)
 
 <br>
 <br>
@@ -174,9 +172,8 @@ Ctrl-F로 아이디를 찾아볼 수 있습니다!
 40) parkmh0914 17  
 
 <br>
-<br>
 
-나머지 순위를 포함한 전체 순위는 [여기](https://codeup.tk/2019-08-3rd/Troll)를 참고하세요 :)
+나머지 순위를 포함한 전체 순위는 [여기](https://codeup.tk/Ranks/2019-08-3rd/Troll)를 참고하세요 :)
 
 <br>
 <br>
@@ -224,7 +221,8 @@ Ctrl-F로 아이디를 찾아볼 수 있습니다!
 39) 1023 276  
 40) 1022 276  
 
-<br>
+
 <br>
 
-나머지 순위를 포함한 전체 순위는 [여기](https://codeup.tk/2019-08-3rd/Problem)를 참고하세요 :)  
+나머지 순위를 포함한 전체 순위는 [여기](https://codeup.tk/Ranks/2019-08-3rd/Problem)를 참고하세요 :)  
+
